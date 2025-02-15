@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Navbar {
+  background-color: black;
+  border-radius: 50px;
+}
+h1 {
+  font-style: italic;
+  font-size: x-large;
+  font-weight: bolder;
+}
